@@ -1,1 +1,2 @@
-console.log('hello');
+console.write('hello');
+f().log('hello');
