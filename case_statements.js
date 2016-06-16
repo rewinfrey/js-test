@@ -1,6 +1,8 @@
 switch (foo) {
 	case "hello":
 		break;
+	case "another case":
+		break;
 }
 
 switch (foo) {
