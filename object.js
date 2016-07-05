@@ -1,1 +1,0 @@
-{ replacement: "value1" };
