@@ -1,5 +1,6 @@
-while (a)
-  b();
+while (a) {
+	b();
+}
 
 do {
   a;
